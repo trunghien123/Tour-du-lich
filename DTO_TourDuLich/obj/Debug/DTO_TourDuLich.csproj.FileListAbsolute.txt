@@ -1,0 +1,5 @@
+C:\Users\Trung Hien\documents\visual studio 2015\Projects\TourDuLich\DTO_TourDuLich\bin\Debug\DTO_TourDuLich.dll
+C:\Users\Trung Hien\documents\visual studio 2015\Projects\TourDuLich\DTO_TourDuLich\bin\Debug\DTO_TourDuLich.pdb
+C:\Users\Trung Hien\documents\visual studio 2015\Projects\TourDuLich\DTO_TourDuLich\obj\Debug\DTO_TourDuLich.dll
+C:\Users\Trung Hien\documents\visual studio 2015\Projects\TourDuLich\DTO_TourDuLich\obj\Debug\DTO_TourDuLich.pdb
+C:\Users\Trung Hien\documents\visual studio 2015\Projects\TourDuLich\DTO_TourDuLich\obj\Debug\DTO_TourDuLich.csprojResolveAssemblyReference.cache
