@@ -66,7 +66,12 @@ namespace TourDuLich
 
         private void sua(object sender, EventArgs e)
         {
-            if(dataGridView1.SelectedRows.Count > 0)
+            //Show dialog Sua
+            DialogSua dialog = new DialogSua();
+            dialog.StartPosition = FormStartPosition.CenterScreen;
+            dialog.ShowDialog(this);
+            //---------------
+            if (dataGridView1.SelectedRows.Count > 0)
             {
                 //if(txtTen.Text !=)
                 DataGridViewRow row = dataGridView1.SelectedRows[0];

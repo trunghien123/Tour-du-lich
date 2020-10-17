@@ -60,3 +60,4 @@ C:\Users\Trung Hien\documents\visual studio 2015\Projects\TourDuLich\TourDuLich\
 C:\Users\Trung Hien\documents\visual studio 2015\Projects\TourDuLich\TourDuLich\bin\Debug\DAL_TourDuLich.pdb
 C:\Users\Trung Hien\documents\visual studio 2015\Projects\TourDuLich\TourDuLich\bin\Debug\DTO_TourDuLich.pdb
 C:\Users\Trung Hien\documents\visual studio 2015\Projects\TourDuLich\TourDuLich\obj\Debug\TourDuLich.DialogThem.resources
+C:\Users\Trung Hien\documents\visual studio 2015\Projects\TourDuLich\TourDuLich\obj\Debug\TourDuLich.DialogSua.resources

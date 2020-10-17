@@ -150,6 +150,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DialogSua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogSua.Designer.cs">
+      <DependentUpon>DialogSua.cs</DependentUpon>
+    </Compile>
     <Compile Include="DialogThem.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -164,6 +170,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DialogSua.resx">
+      <DependentUpon>DialogSua.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DialogThem.resx">
       <DependentUpon>DialogThem.cs</DependentUpon>
     </EmbeddedResource>
